@@ -1,2 +1,3 @@
 # First-Come-First-Serve-FCFS-Scheduling-Algorithm
 Algorithm in C
+This repository contains a C program that implements the First Come First Serve (FCFS) scheduling algorithm, a fundamental concept in Operating Systems. The FCFS algorithm schedules processes in the order they arrive, processing each one to completion before moving on to the next. This project demonstrates how the FCFS algorithm works by simulating the scheduling of multiple processes, showing their arrival times, burst times, and the order in which they are executed. The program calculates and displays key metrics such as waiting time and turnaround time for each process, providing insight into the performance of this simple yet important scheduling technique.
